@@ -12,11 +12,11 @@ var gameState,readState;
 function preload()
 {
   //load images here
-  dogImg = loadImage("images/dogImg.png");
-  happyDogImg = loadImage("images/dogImg1.png");
-  garden=loadImage("images/Garden.png");
-  washroom=loadImage("images/Wash Room.png");
-  bedroom=loadImage("images/Bed Room.png");
+  dogImg = loadImage("./images/dogImg.png");
+  happyDogImg = loadImage("./images/dogImg1.png");
+  garden=loadImage("./images/Garden.png");
+  washroom=loadImage("./images/Wash Room.png");
+  bedroom=loadImage("./images/Bed Room.png");
 
 }
 
